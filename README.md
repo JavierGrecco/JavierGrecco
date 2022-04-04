@@ -8,4 +8,4 @@ Me adapto a distintas dinámicas de equipo,  soy colaborativo, flexible, autoexi
 
 Me gustan los desafíos que promueven  el desarrollo y uso de la capacidad analítica, el manejo de los recursos y la creatividad en la resolución de problemas. Por lo tanto, estoy abierto a asumir nuevos retos que me conduzcan a una evolución continua.
 
-Perfil linkedin: https://www.linkedin.com/in/javier-grecco/
+[Perfil Linkedin](https://www.linkedin.com/in/javier-grecco/)
