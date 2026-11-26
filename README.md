@@ -2,7 +2,7 @@
 
 # Javier Grecco
 
-### IT Operations · Incident Response · Reliability · AI-assisted Product Delivery
+### IT Operations · Incident Response · Reliability · AI-assisted Product & Project Management
 
 **Operaciones críticas, mejora de procesos y conducción de productos digitales con IA.**
 
@@ -16,7 +16,7 @@
 
 Profesional de IT Operations con más de 15 años de experiencia en operación crítica, monitoreo, análisis y coordinación de incidentes, confiabilidad y mejora de procesos. Mi recorrido combina seguimiento de servicios y procesos de negocio, gestión de situaciones críticas, análisis de métricas, comunicación con equipos y responsables, y trabajo sobre la calidad de la operación.
 
-En paralelo, conduzco proyectos propios de software como **Product Owner y responsable de producto**, utilizando IA generativa como apoyo para investigar, diseñar, desarrollar y evolucionar herramientas. Mi aporte está en definir qué problema resolver, establecer el rumbo, priorizar, revisar las decisiones técnicas, probar los resultados y guiar las iteraciones hasta cumplir criterios de calidad concretos.
+En paralelo, conduzco proyectos propios de software como **Product Owner y gestor de proyectos**, combinando mi experiencia de dominio con IA generativa para investigar, diseñar, programar, probar y evolucionar herramientas. Mi aporte está en definir qué problema resolver, establecer el rumbo, priorizar, revisar las decisiones técnicas, evaluar los resultados y guiar las iteraciones hasta cumplir criterios de calidad concretos.
 
 ## Experiencia en IT Operations
 
@@ -38,7 +38,9 @@ En mis proyectos personales utilizo asistentes de IA como herramienta de impleme
 - Solicito ajustes, vuelvo a probar y continúo iterando hasta alcanzar el comportamiento y la calidad esperados.
 - Mantengo documentación, decisiones, pendientes y estado real del proyecto para distinguir lo implementado de lo que sigue en diseño o validación.
 
-Esta forma de trabajo me permite aplicar mi experiencia en operaciones, análisis, calidad y gestión de problemas a la creación de herramientas concretas. La IA participa en el desarrollo; **la dirección del producto, las prioridades y la aceptación siguen siendo responsabilidad mía**.
+En esos proyectos propios también identifico tareas que conviene automatizar y conduzco la implementación de controles, validaciones de datos y workflows para reducir errores y hacer más consistentes los procesos del producto. Esa automatización corresponde a mis proyectos personales: en mis empleos, mi aporte estuvo en la operación, el análisis de problemas, la gestión de incidentes y la mejora de procesos, controles y flujos de trabajo, no en liderar proyectos propios de automatización.
+
+Esta forma de trabajo me permite aplicar mi experiencia en operaciones, análisis, calidad y gestión de problemas a la creación de herramientas concretas. La IA participa en la programación y el desarrollo; **la dirección del producto, las prioridades y la aceptación siguen siendo responsabilidad mía**.
 
 ## Proyectos principales
 
